@@ -4,7 +4,7 @@
 - 🌱 Learning, React, ElectronJS and AngualrJS
 - 💞️ I’m looking to collaborate on cool projects
 - 💻 Systems and Computer Engineer 
-- 🌱 Estuding a Master in Business Inteligence and Analitics
+- 🌱 Master in Business Inteligence and Analitics
 - 📫 How to reach me jrmirandare@gmail.com
 
 <!---
